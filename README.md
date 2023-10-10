@@ -1,5 +1,8 @@
 # Data_analysis_project
-
+## รายชิ่อทีม
+- 650510604 ชนาภรณ์ ศรีวารมย์
+- 650510648 อภิวิชญ์ ศุภลักษณ์
+- 650510656 จิณณวัตร จันทร์งาม
 ## link to kaggle
 https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset
 
