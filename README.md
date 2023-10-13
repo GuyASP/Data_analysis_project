@@ -24,6 +24,9 @@
   - ช่วยกันหาข้อมูลที่เกี่ยวข้อง
   - สไลด์นำเสนอ
   - อัดคลิปนำเสนอ
+## presentation video
+https://www.youtube.com/watch?v=6vLj07DSnoU
+
 ## link to kaggle
 https://www.kaggle.com/datasets/elianaj/mexico-air-quality-dataset
 
